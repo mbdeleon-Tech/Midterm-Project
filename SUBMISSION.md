@@ -6,11 +6,11 @@
 
 ## GitHub repository
 
-To be added after deployment.
+https://github.com/mbdeleon-Tech/Midterm-Project
 
 ## Hosted working website
 
-To be added after deployment.
+https://midterm-project.infinityfreeapp.com/
 
 ## Demo login
 

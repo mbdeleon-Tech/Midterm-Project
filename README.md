@@ -2,6 +2,9 @@
 
 Northstar POS is a CodeIgniter 4 application for the IT0049 Midterm Project. It combines product, customer, and staff management with authentication, safe image uploads, stock-aware sales recording, and sales history.
 
+- Live website: https://midterm-project.infinityfreeapp.com/
+- GitHub repository: https://github.com/mbdeleon-Tech/Midterm-Project
+
 ## Demo staff login
 
 - Username: `admin.marc`
