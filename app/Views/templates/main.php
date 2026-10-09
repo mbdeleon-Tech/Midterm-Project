@@ -28,7 +28,7 @@
                     </form>
                 <?php else: ?>
                     <a class="<?= $activePage === 'about' ? 'active' : '' ?>" href="<?= site_url('about') ?>">About</a>
-                    <a class="<?= $activePage === 'login' ? 'active' : '' ?>" href="<?= site_url('login') ?>">Login</a>
+                    <a class="nav-cta <?= $activePage === 'login' ? 'active' : '' ?>" href="<?= site_url('login') ?>">Login</a>
                 <?php endif; ?>
             </nav>
         </div>
